@@ -1,0 +1,32 @@
+.nav-link{
+    color: black !important;
+}
+
+
+.nav.nav-tabs {
+    margin-bottom: 10px !important;
+    color: black !important;
+  }
+
+  .nav-item{
+    background-color:white !important;
+    color: black !important;
+  }
+
+  .nav-pills .nav-link.active{
+
+    background-color:#FAFAFA;
+    color: green;
+    border-radius: 0px;
+    border-bottom: 2px solid green;
+  }
+  .card-body{
+    text-align: left !important;
+  }
+  .card-link{
+
+    color: var(--bs-card-color);
+    font-size:medium;
+   
+   
+  }
